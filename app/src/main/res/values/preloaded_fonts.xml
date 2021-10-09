@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/alegreya_sans_sc</item>
+        <item>@font/amarante</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/artifika</item>
+        <item>@font/atomic_age</item>
+        <item>@font/chela_one</item>
+        <item>@font/diplomata</item>
+    </array>
+</resources>

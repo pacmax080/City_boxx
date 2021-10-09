@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">City Boxx</string>
+    <string name="error_con_bl">Bluetooth connection is missing</string>
+    <string name="error">error</string>
+    <string name="name_vent">Ventilation</string>
+    <string name="name_lamp">lamp</string>
+    <string name="interval_on">Switching interval </string>
+    <string name="interval_off">Shutdown interval</string>
+    <string name="temperature_on">Switch-on temperature</string>
+    <string name="temperature_off">Switch-off temperature</string>
+    <string name="min">min</string>
+    <string name="hour">h</string>
+</resources>

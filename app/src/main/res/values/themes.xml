@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CityBoxx" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Green_600_tr</item>
+        <item name="colorPrimaryVariant">@color/Green_900_tr</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/purpule_400</item>
+        <item name="colorSecondaryVariant">@color/purpule_900</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#1B5E20</item>
+        <!-- Customize your theme here. -->
+        <item name="itemBackground">@drawable/back_img1</item>
+    </style>
+</resources>

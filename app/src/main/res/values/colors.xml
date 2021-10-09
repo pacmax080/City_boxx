@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Green_900_tr">#D21B5E20</color>
+    <color name="Green_600_tr">#D243a046</color>
+    <color name="lGreen_400_tr">#53B800</color>
+    <color name="lGreen_600_tr">#1A9700</color>
+    <color name="purpule_900">#FF5e1b5a</color>
+    <color name="purpule_400">#FFa0439d</color>
+    <color name="lPurpule_400">#FFc300ea</color>
+    <color name="lPurpule_500">#FFa000a0</color>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+</resources>

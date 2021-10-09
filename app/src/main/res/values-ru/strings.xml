@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">City Boxx</string>
+    <string name="error_con_bl">Отсутствует соединение Bluetooth</string>
+    <string name="error">Ошибка!</string>
+    <string name="name_vent">Вентиляция</string>
+    <string name="name_lamp">Лампа</string>
+    <string name="interval_on">Интервал включения</string>
+    <string name="interval_off">Интервал выключения</string>
+    <string name="temperature_on">Температура включения</string>
+    <string name="temperature_off">Температура выключения</string>
+    <string name="min">мин</string>
+    <string name="hour">ч</string>
+</resources>
