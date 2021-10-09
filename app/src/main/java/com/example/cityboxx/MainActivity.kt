@@ -283,8 +283,7 @@ class MainActivity : AppCompatActivity() {
                         connectedButton.imageTintList =
                             ColorStateList.valueOf(resources.getColor(R.color.white))
                         connectedButton.imageTintList =
-                            ColorStateList.valueOf(resources.getColor(R.color.lGreen_400_tr))
-                        connectedButton.backgroundTintList = ColorStateList.valueOf(resources.getColor(R.color.black))
+                            ColorStateList.valueOf(resources.getColor(R.color.lGreen_icon))
                     }
                     -1 -> {
                         showSnackBar("Device no connect")
